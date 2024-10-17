@@ -1,0 +1,226 @@
+
+
+
+
+
+Application started at 2023-10-15 00:54:51.970063
+Continuing No folders in /data were deleted. The program will start without deletion.
+F:/CCI Vendor Price Puller/input/BU_APP.csv
+Chrome WebDriver selection canceled.
+****************************
+Pulling Success :
+801468 650777
+829147 657343
+****************************
+
+
+
+
+
+Application started at 2023-10-15 01:05:59.897595
+Continuing No folders in /data were deleted. The program will start without deletion.
+F:/CCI Vendor Price Puller/input/BU_APP.csv
+Chrome WebDriver selection canceled.
+****************************
+Pulling Success :
+801468 650777
+829147 657343
+****************************
+
+
+
+
+
+Application started at 2023-10-15 01:06:31.464189
+Continuing No folders in /data were deleted. The program will start without deletion.
+F:/CCI Vendor Price Puller/input/BU_APP.csv
+Chrome WebDriver selection canceled.
+****************************
+Pulling Success :
+801468 650777
+829147 657343
+****************************
+
+
+
+
+
+Application started at 2023-10-18 23:17:25.474293
+Continuing No folders in /data were deleted. The program will start without deletion.
+F:/CCI Vendor Price Puller/input/BU_APP.csv
+****************************
+Pulling Success :
+813795 656434
+874716 656424
+845765 655496
+873258 655488
+812523 655487
+812756 655486
+****************************
+Homepage content saved as 'data\813795.656434\813795.656434 HOME.html'
+Body content saved as 'data\813795.656434\813795.656434 PCR.html'
+Looking Application of : 813795.656434
+Application content saved as 'data\813795.656434\813795.656434 APP.html'
+Looking WO for : 813795.656434
+WO content saved as 'data\813795.656434\813795.656434 WO.html'
+----------Sub-Session-End----------
+Homepage content saved as 'data\874716.656424\874716.656424 HOME.html'
+Body content saved as 'data\874716.656424\874716.656424 PCR.html'
+Looking Application of : 874716.656424
+Application content saved as 'data\874716.656424\874716.656424 APP.html'
+Looking WO for : 874716.656424
+WO content saved as 'data\874716.656424\874716.656424 WO.html'
+----------Sub-Session-End----------
+Homepage content saved as 'data\845765.655496\845765.655496 HOME.html'
+Body content saved as 'data\845765.655496\845765.655496 PCR.html'
+Looking Application of : 845765.655496
+Application content saved as 'data\845765.655496\845765.655496 APP.html'
+Looking WO for : 845765.655496
+WO content saved as 'data\845765.655496\845765.655496 WO.html'
+----------Sub-Session-End----------
+Homepage content saved as 'data\873258.655488\873258.655488 HOME.html'
+Body content saved as 'data\873258.655488\873258.655488 PCR.html'
+Looking Application of : 873258.655488
+Application content saved as 'data\873258.655488\873258.655488 APP.html'
+Looking WO for : 873258.655488
+WO content saved as 'data\873258.655488\873258.655488 WO.html'
+----------Sub-Session-End----------
+Homepage content saved as 'data\812523.655487\812523.655487 HOME.html'
+Body content saved as 'data\812523.655487\812523.655487 PCR.html'
+Looking Application of : 812523.655487
+Application content saved as 'data\812523.655487\812523.655487 APP.html'
+Looking WO for : 812523.655487
+WO content saved as 'data\812523.655487\812523.655487 WO.html'
+----------Sub-Session-End----------
+Homepage content saved as 'data\812756.655486\812756.655486 HOME.html'
+Body content saved as 'data\812756.655486\812756.655486 PCR.html'
+Looking Application of : 812756.655486
+Application content saved as 'data\812756.655486\812756.655486 APP.html'
+Looking WO for : 812756.655486
+WO content saved as 'data\812756.655486\812756.655486 WO.html'
+----------Sub-Session-End----------
+----/////all input data collected/////----
+***********************
+SUMMARY REPORT FOR DATA VALIDATION
+***********************
+STATUS OK : BU.APP with WO:
+813795.656434
+874716.656424
+845765.655496
+873258.655488
+812523.655487
+812756.655486
+***********************
+STATUS ERROR-1 : BU.APP with no WO
+summary
+***********************
+STATUS ERROR-2 : BU.APP with A&B Structure
+***********************
+STATUS ERROR-3 : BU.APP with search error
+NOT FOUND
+***********************
+STATUS ERROR-4 : BU.APP with unknow problem
+NOT FOUND
+***********************
+<--BU.APPKeep from Previous-->
+801468.650777
+829147.657343
+828954.606700
+812185.657855
+812188.657853
+812284.657880
+813195.657843
+813200.657845
+817309.657897
+825555.657876
+844174.657879
+<------------------------>
+
+
+
+
+
+Application started at 2023-10-18 23:25:07.731204
+Continuing No folders in /data were deleted. The program will start without deletion.
+F:/CCI Vendor Price Puller/input/BU_APP.csv
+****************************
+Pulling Success :
+****************************
+----/////all input data collected/////----
+***********************
+SUMMARY REPORT FOR DATA VALIDATION
+***********************
+STATUS OK : BU.APP with WO:
+***********************
+STATUS ERROR-1 : BU.APP with no WO
+summary
+***********************
+STATUS ERROR-2 : BU.APP with A&B Structure
+***********************
+STATUS ERROR-3 : BU.APP with search error
+NOT FOUND
+***********************
+STATUS ERROR-4 : BU.APP with unknow problem
+NOT FOUND
+***********************
+<--BU.APPKeep from Previous-->
+801468.650777
+829147.657343
+828954.606700
+812185.657855
+812188.657853
+812284.657880
+813195.657843
+813200.657845
+817309.657897
+825555.657876
+844174.657879
+813795.656434
+874716.656424
+845765.655496
+873258.655488
+812523.655487
+812756.655486
+<------------------------>
+All HTML files  folder have been combined.
+--------------------------------------------
+Folder: 801468.650777, Structure Type: MONOPOLE, Vendor: CROWN CASTLE, Price: 704, Application Submit Date: 2023/09/13, NTP DATE: 2023/09/14, SA DATE: 2023/09/18, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Vision-GMJ Partners, LLC, Status: Internally Approved
+--------------------------------------------
+Folder: 829147.657343, Structure Type: MONOPOLE, Vendor: BLACK & VEATCH CORP, Price: 670, Application Submit Date: 2023/09/19, NTP DATE: 2023/10/02, SA DATE: 2023/10/05, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Verizon Wireless, Status: STRUCT
+--------------------------------------------
+Folder: 828954.606700, Structure Type: GUYED, Vendor: B&T ENGINEERING, Price: 600, Application Submit Date: 2022/03/11, NTP DATE: 2022/05/25, SA DATE: 2022/05/27, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: AT&T Mobility, Status: Customer Approved Aug 24 2022
+--------------------------------------------
+Folder: 812185.657855, Structure Type: MONOPOLE, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 550, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/26, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Customer Approved Sep 28 2023
+--------------------------------------------
+Folder: 812188.657853, Structure Type: SELF SUPPORT, Vendor: MORRISON HERSHFIELD CORP., Price: 660, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/20, SA DATE: 2023/09/22, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Customer Approved Sep 26 2023
+--------------------------------------------
+Folder: 812284.657880, Structure Type: MONOPOLE, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 550, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/25, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Customer Approved Oct 05 2023
+--------------------------------------------
+Folder: 813195.657843, Structure Type: MONOPOLE, Vendor: B&T ENGINEERING, Price: 750, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/22, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Customer Approved Sep 26 2023
+--------------------------------------------
+Folder: 813200.657845, Structure Type: MONOPOLE, Vendor: CROWN CASTLE, Price: 704, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/28, SA DATE: 2023/09/29, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Customer Approved Oct 03 2023
+--------------------------------------------
+Folder: 817309.657897, Structure Type: GUYED, Vendor: CROWN CASTLE, Price: 984, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/21, Manual Pricing: No,Report Type: SL - Structural Letter, Customer: MERCURY WIRELESS, Status: Customer Approved Sep 27 2023
+--------------------------------------------
+Folder: 825555.657876, Structure Type: MONOPOLE, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 550, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/25, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Verizon Wireless, Status: STRUCT
+--------------------------------------------
+Folder: 844174.657879, Structure Type: SELF SUPPORT, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 690, Application Submit Date: 2023/09/20, NTP DATE: 2023/09/21, SA DATE: 2023/09/25, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: DISH Network, Status: Submitted
+--------------------------------------------
+Folder: 813795.656434, Structure Type: GUYED, Vendor: CROWN CASTLE, Price: 984, Application Submit Date: 2023/09/12, NTP DATE: 2023/10/11, SA DATE: 2023/10/13, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: T-Mobile, Status: Customer Approved Oct 17 2023
+--------------------------------------------
+Folder: 874716.656424, Structure Type: MONOPOLE, Vendor: BLACK & VEATCH CORP, Price: 670, Application Submit Date: 2023/09/12, NTP DATE: 2023/09/29, SA DATE: 2023/10/03, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Sprint PCS, Status: Customer Approved Oct 05 2023
+--------------------------------------------
+Folder: 845765.655496, Structure Type: MONOPOLE, Vendor: MORRISON HERSHFIELD CORP., Price: 480, Application Submit Date: 2023/09/12, NTP DATE: 2023/09/13, SA DATE: 2023/09/14, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: T-Mobile, Status: STRUCT
+--------------------------------------------
+Folder: 873258.655488, Structure Type: SELF SUPPORT, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 690, Application Submit Date: 2023/09/12, NTP DATE: 2023/09/12, SA DATE: 2023/09/13, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Verizon Wireless, Status: STRUCT
+--------------------------------------------
+Folder: 812523.655487, Structure Type: GUYED, Vendor: TOWER ENGINEERING PROFESSIONALS, Price: 690, Application Submit Date: 2023/09/12, NTP DATE: 2023/09/12, SA DATE: 2023/09/14, Manual Pricing: No,Report Type: MOD doc# 10664401 considered a...Show All (1), Customer: Verizon Wireless, Status: STRUCT
+--------------------------------------------
+Folder: 812756.655486, Structure Type: MONOPOLE, Vendor: BLACK & VEATCH CORP, Price: 670, Application Submit Date: 2023/09/12, NTP DATE: 2023/09/13, SA DATE: 2023/09/14, Manual Pricing: No,Report Type: SA - Structural Analysis, Customer: Verizon Wireless, Status: STRUCT
+--------------------------------------------
+Metadata saved to data/summary\metadata.json
+********************************
+Data saved to data/summary/Metadata.csv
+********************************
+##############      COMPLETED          ############## 
+############## MANUAL COPY LOG AS NEED ############## 
